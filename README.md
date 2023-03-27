@@ -1,3 +1,9 @@
+# Input (Passing Props)
+
+![image](https://user-images.githubusercontent.com/54526101/227847604-fb31057b-f598-4e75-a6a6-5a39c286d34c.png)
+
+
+
 # Output 
 
 ![image](https://user-images.githubusercontent.com/54526101/227704979-f0dc3874-4984-4f07-a8ee-c12983eff396.png)
